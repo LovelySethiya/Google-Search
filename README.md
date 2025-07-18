@@ -33,9 +33,9 @@ pip install googlesearch-python
 Clone this repository and run the script:
 
 ```bash
-git clone https://github.com/<your-username>/google-search-python.git
-cd google-search-python
-python search.py
+git clone https://github.com/LovelySethiya/Google-Search.git
+cd Google-Search
+python google_search.py
 ```
 
 You'll be prompted to enter a search query. The script will then display the top 10 search results.
@@ -61,9 +61,9 @@ Enter your Google search query: best python tutorials
 ## 📁 Project Structure
 
 ```
-google-search-python/
+Google-Search/
 │
-├── search.py         # Main script file
+├── google_search.py         # Main script file
 └── README.md         # Project documentation
 ```
 
